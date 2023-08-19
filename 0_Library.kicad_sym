@@ -333,7 +333,7 @@
         (number "8" (effects (font (size 1.27 1.27))))
       )
       (pin passive line (at -8.89 -13.97 0) (length 5.08)
-        (name "CTCLI" (effects (font (size 0.635 0.635))))
+        (name "CTCLK" (effects (font (size 0.635 0.635))))
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
