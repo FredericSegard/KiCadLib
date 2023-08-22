@@ -85,8 +85,8 @@
   (pad "5" thru_hole circle (at 3.665 10.999 180) (size 1.509 1.509) (drill 0.97) (layers "*.Cu" "*.Mask") (tstamp 347f8eb9-0ec6-4391-9525-acf0ca5d3c7f))
   (pad "6" thru_hole circle (at 10.365 10.999 180) (size 1.509 1.509) (drill 0.97) (layers "*.Cu" "*.Mask") (tstamp f75445bc-8bc0-46ef-b9a2-19ace72e4d72))
   (model "S:\\KiCad-Libraries\\SamacSys_Parts.3dshapes\\5749266-1.stp"
-    (offset (xyz -1.299999933 -8.510000101 6.590000054))
+    (offset (xyz 7 0 6.5))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
+    (rotate (xyz -90 0 180))
   )
 )

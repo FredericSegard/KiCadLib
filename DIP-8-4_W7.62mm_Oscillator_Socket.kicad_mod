@@ -46,4 +46,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+  (model "${KICAD7_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_DIP-8.step"
+    (offset (xyz 0 0 3.35))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
 )
